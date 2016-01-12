@@ -6,7 +6,7 @@
     <version>7.10-HF04-SNAPSHOT</version>
   </parent>
   <artifactId>marketplace-nuxeo-indesign-connector-parent</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Marketplace parent POM</name>
   <description>Marketplace parent POM</description>
