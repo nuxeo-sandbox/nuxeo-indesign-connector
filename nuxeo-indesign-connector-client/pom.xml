@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.nuxeo.indesignconnector</groupId>
     <artifactId>parent-nuxeo-indesign-connector</artifactId>
-    <version>7.10-HF20-SNAPSHOT</version>
+    <version>7.10-HF21-SNAPSHOT</version>
   </parent>
   <groupId>org.nuxeo.indesignconnector</groupId>
   <artifactId>nuxeo-indesign-connector-client</artifactId>
